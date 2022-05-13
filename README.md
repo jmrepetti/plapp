@@ -1,6 +1,6 @@
 # Plapp
 
-Experiment using Plug as composable business applicatin logic. 
+Experiment using Plug (fork https://github.com/jmrepetti/plug) as composable business applicatin logic. 
 
 
 ## Usage
